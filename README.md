@@ -2,6 +2,6 @@
 
 <h2>Scrennshot</h2>
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/himashamadu/Mini-Game/blob/main/ScreenShot/Winner.PNG" width="400px"></img>
 </div>
